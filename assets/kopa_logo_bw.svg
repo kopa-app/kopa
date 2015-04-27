@@ -7,52 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
    width="256"
    height="256"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="kopa_logo_bw.svg"
-   inkscape:export-filename="/home/ondrej/Projekte/Private_Arbeiten/kopa/promo/assets/kopa_logo_bw_128.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45">
+   id="svg2">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="137.13372"
-     inkscape:cy="170.53972"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:object-paths="true"
-     inkscape:snap-global="true"
-     inkscape:snap-nodes="true"
-     inkscape:snap-grids="true"
-     inkscape:snap-to-guides="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid2985"
-       empspacing="5"
-       visible="true"
-       enabled="true"
-       snapvisiblegridlinesonly="true"
-       spacingx="32px"
-       spacingy="32px" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -66,53 +26,24 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-796.36215)">
+     transform="translate(0,-796.36215)"
+     id="layer1">
     <path
-       inkscape:connector-curvature="0"
-       id="path3860"
        d="m 241,878.86215 -153.5,0 20.61286,-7 97.80143,0 z"
+       id="path3860"
        style="fill:#000000;stroke:none" />
     <path
-       style="fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 0,256 37.513589,-84.03044 16.005798,-4.00145 36.513226,-65.02355 7.002538,9.00325 35.966659,-69.944186 59.06777,133.967386 11.00398,-18.5067 L 256,256 z"
-       id="path3006"
-       inkscape:connector-curvature="0"
+       d="m 133,42 -35.96875,69.9375 -7,-9 -36.5,65.03125 -16.03125,4 L 0,256 81.25,256 160.5,229.71875 59.25,201.75 l 96.25,-26.28125 -63,-21.5 L 145.84375,137.875 126,130 148.8125,138.125 99.5,154.25 167.5,176.3125 70.8125,201.65625 179,230 l -78.5,26 155.5,0 -52.9375,-98.53125 -11,18.5 L 133,42 z"
        transform="translate(0,796.36215)"
-       sodipodi:nodetypes="cccccccccc" />
+       id="path3006"
+       style="fill:#000000;stroke:none" />
     <path
-       style="fill:#ffffff;stroke:none"
-       d="M 100.5,1052.3622 179,1026.3621 70.824787,998.03018 167.5,972.6665 l -68,-22.04348 49.32249,-16.12561 -22.82431,-8.11968 19.84255,7.85266 -53.34073,16.11002 63,21.47826 -96.25,26.28261 101.25,27.97822 -79.25,26.2827 z"
-       id="path3840"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccc" />
-    <path
-       style="fill:#000000;stroke:none"
        d="m 19.5,866.86215 175,0 -23.5,-7 -111.5,0 z"
        id="path3858"
-       inkscape:connector-curvature="0" />
+       style="fill:#000000;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
-       id="path3862"
        d="m 164.2729,849.86215 -60.2729,0 21.46507,-7 16.20657,0 z"
-       style="fill:#000000;stroke:none"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:#ffffff;stroke:none"
-       d="M 115.78125 75.5 L 112.15625 82.5 L 150.84375 82.5 L 147.78125 75.5 L 115.78125 75.5 z "
-       transform="translate(0,796.36215)"
-       id="path3885" />
-    <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 121.9375 63.5 L 118.34375 70.5 L 145.5625 70.5 L 142.46875 63.5 L 121.9375 63.5 z "
-       transform="translate(0,796.36215)"
-       id="path3890" />
-    <path
-       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 130.6875 46.5 L 127.09375 53.5 L 138.0625 53.5 L 134.96875 46.5 L 130.6875 46.5 z "
-       transform="translate(0,796.36215)"
-       id="path3895" />
+       id="path3862"
+       style="fill:#000000;stroke:none" />
   </g>
 </svg>
