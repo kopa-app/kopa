@@ -9,10 +9,10 @@ This app is still in development and will be available in the near future.
 Enter the [chat](https://gitter.im/kopa-app/kopa) to get up to date with development updates
 and to be part of the discussion.
 
-![Kopa frontpage](https://github.com/kopa-app/kopa/raw/master/screenhots/screenshot_00.png)
+![Kopa frontpage](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_00.png)
 
-![Kopa issue board overview](https://github.com/kopa-app/kopa/raw/master/screenhots/screenshot_01.png)
+![Kopa issue board overview](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_01.png)
 
-![Kopa issue board filters](https://github.com/kopa-app/kopa/raw/master/screenhots/screenshot_02.png)
+![Kopa issue board filters](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_02.png)
 
-![Kopa issue board - issue details](https://github.com/kopa-app/kopa/raw/master/screenhots/screenshot_03.png)
+![Kopa issue board - issue details](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_03.png)
