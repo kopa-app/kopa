@@ -12,9 +12,9 @@
 </div>
 ---
 
-<figure align="center">
+<div align="center">
   <img alt="Kopa - Mascot" src="https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.png" />
-</figure>
+</div>
 
 ## **Kopa.io is an upcoming lightweight issue collaboration board.**
 
