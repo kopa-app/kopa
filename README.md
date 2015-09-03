@@ -1,18 +1,27 @@
-# ![Kopa - Logo](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo_128.png) Kopa
+# ![Kopa - Logo](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo.svg) Kopa
 
 [![Join the chat at https://gitter.im/kopa-app/kopa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kopa-app/kopa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Kopa is an upcoming lightweight web-application that let's you collaborate on
-your Github or GitLab issues on a Kanban-like board.
+---
 
-This app is still in development and will be available in the near future.
-Enter the [chat](https://gitter.im/kopa-app/kopa) to get up to date with development updates
-and to be part of the discussion.
+![Kopa - Mascot](https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.svg)
 
-![Kopa frontpage](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_00.png)
+**Kopa.io is an upcoming lightweight issue collaboration board.**
 
-![Kopa issue board overview](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_01.png)
+With kopa.io you will be able to manage issues from [GitHub](https://github.com), [Gitlab](https://gitlab.com) and many more on a [Kanban](https://en.wikipedia.org/wiki/Kanban)-like board.
 
-![Kopa issue board filters](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_02.png)
+---
 
-![Kopa issue board - issue details](https://github.com/kopa-app/kopa/raw/master/screenshots/screenshot_03.png)
+You no longer scroll through lists of issues, but you rather organize issues presented as cards on a board, moving them from one column to the next until they are done.
+
+![drag n drop](https://raw.githubusercontent.com/kopa-app/kopa/master/animations/video/drag_n_drop.gif)
+
+---
+
+Store any project or issue in your favorites to get instant access to it.
+
+![favorites](https://raw.githubusercontent.com/kopa-app/kopa/master/animations/video/favorites.gif)
+
+Kopa.io is currently in early development but we'll give away beta invites very soon.
+
+**[Sign up up to our beta](https://kopa.io/beta) to become an early kopa-bird.**
