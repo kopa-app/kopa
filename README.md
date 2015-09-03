@@ -1,11 +1,16 @@
-# ![Kopa - Logo](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo_128.png) Kopa
 
+<h1 style="text-align:center;">
+  [![Kopa](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo_128.png)](https://kopa.io)
+</h1>
+
+<div style="text-align: center;">
 [![Join the chat at https://gitter.im/kopa-app/kopa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kopa-app/kopa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+</div>
 ---
 
+<div style="text-align: center;">
 ![Kopa - Mascot](https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.png)
-
+</div>
 **Kopa.io is an upcoming lightweight issue collaboration board.**
 
 With kopa.io you will be able to manage issues from [GitHub](https://github.com), [Gitlab](https://gitlab.com) and many more on a [Kanban](https://en.wikipedia.org/wiki/Kanban)-like board.
