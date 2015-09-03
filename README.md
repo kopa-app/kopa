@@ -1,10 +1,10 @@
-<h1 style="text-align: center;">
+<h1 align="center">
   <a href="http://kopa.io" title="kopa.io">
     <img alt="Kopa - Logo" src="https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo_128.png" />
   </a>
 </h1>
 
-<div style="text-align: center;">
+<div align="center">
 <a href="https://gitter.im/kopa-app/kopa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="gitter"
    title="Join the chat at https://gitter.im/kopa-app/kopa">
   <img src="https://badges.gitter.im/Join%20Chat.svg" alt="gitter | join chat >" />
@@ -12,7 +12,7 @@
 </div>
 ---
 
-<figure style="text-align: center;">
+<figure align="center">
   <img alt="Kopa - Mascot" src="https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.png" />
 </figure>
 
