@@ -13,9 +13,12 @@
    version="1.1"
    id="svg7966"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="mascot.svg"
-   enable-background="new">
-  <style>
+   sodipodi:docname="kopa_mascot.svg"
+   width="173"
+   height="163.50925"
+   style="enable-background:new">
+  <style
+     id="style3295">
     #schatten {
       mix-blend-mode: multiply;
     }
@@ -29,17 +32,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="702"
+     inkscape:window-width="1680"
+     inkscape:window-height="1011"
      id="namedview49"
      showgrid="false"
-     inkscape:zoom="1.4433535"
-     inkscape:cx="-7.3785927"
-     inkscape:cy="81.754051"
+     inkscape:zoom="0.36083838"
+     inkscape:cx="-4.6785936"
+     inkscape:cy="-807.10004"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs7968">
     <linearGradient
@@ -202,16 +209,6 @@
          style="stop-color:#c7ccdb;stop-opacity:1"
          offset="0.70349997" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter3079-4">
-      <feBlend
-         inkscape:collect="always"
-         mode="multiply"
-         in2="BackgroundImage"
-         id="feBlend3081-8" />
-    </filter>
   </defs>
   <metadata
      id="metadata7971">
@@ -228,9 +225,10 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="schatten">
+     inkscape:label="schatten"
+     transform="translate(2.6999991,0.00116287)">
     <image
-       style="overflow:visible;"
+       style="overflow:visible"
        id="schatten"
        height="73"
        width="173"
@@ -241,7 +239,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="Ebene">
+     inkscape:label="Ebene"
+     transform="translate(2.6999991,0.00116287)">
     <g
        id="g2621"
        transform="translate(4155.3,-108.49189)">

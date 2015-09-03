@@ -1,10 +1,10 @@
-# ![Kopa - Logo](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo.svg) Kopa
+# ![Kopa - Logo](https://github.com/kopa-app/kopa/raw/master/assets/kopa_logo_128.png) Kopa
 
 [![Join the chat at https://gitter.im/kopa-app/kopa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kopa-app/kopa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ---
 
-![Kopa - Mascot](https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.svg)
+![Kopa - Mascot](https://github.com/kopa-app/kopa/raw/master/assets/kopa_mascot_waving.png)
 
 **Kopa.io is an upcoming lightweight issue collaboration board.**
 
